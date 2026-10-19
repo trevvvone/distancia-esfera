@@ -14,7 +14,7 @@ Demo funcional, calcula la distancia entre dos puntos de la Tierra a partir de s
 - Diferencia respecto a Haversine, ángulo central y rumbo
 
 ## Tecnologías
-Next.js, React y JavaScript, sin librerías adicionales. Desplegado en Vercel.
+Next.js, React y JavaScript, sin librerías adicionales. Desplegado en Vercel: https://distancia-esfera.vercel.app/
 
 ## Autor
 David Mendoza. 
